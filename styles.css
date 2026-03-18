@@ -209,11 +209,19 @@ button {
 }
 
 .letter-button {
+<<<<<<< HEAD
   min-height: 44px;
   padding: 6px 0;
   background: var(--accent);
   color: #f7faf9;
   font-size: 0.9rem;
+=======
+  min-height: 54px;
+  padding: 10px 0;
+  background: var(--accent);
+  color: #f7faf9;
+  font-size: 1rem;
+>>>>>>> 73444b03ef136f4075ae1fe2952e504107f831cb
   font-weight: 800;
 }
 
